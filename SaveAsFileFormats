@@ -1,0 +1,8 @@
+File Format Name - FileFormat Value
+Excel 2007-2010 Binary Workbook (.xlsb) - 50
+Excel 2007-2010 Workbook (.xlsx) - 51
+Excel 2007-2010 Macro-Enabled Workbook (.xlsm) - 52
+Excel 2007-2010 Macro-Enabled Template (.xltm) - 53
+Excel 2007-2010 Template (.xltx) - 54
+Excel 2007-2010 Add-In (.xlam) - 55
+Excel 1997-2003 Workbook (.xls) - 56
